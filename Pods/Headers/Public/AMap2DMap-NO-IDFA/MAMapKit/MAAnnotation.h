@@ -1,0 +1,1 @@
+../../../../AMap2DMap-NO-IDFA/MAMapKit.framework/Headers/MAAnnotation.h

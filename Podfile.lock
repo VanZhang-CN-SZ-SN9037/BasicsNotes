@@ -1,0 +1,42 @@
+PODS:
+  - AMap2DMap-NO-IDFA (5.6.1):
+    - AMapFoundation-NO-IDFA (~> 1.4)
+  - AMapFoundation-NO-IDFA (1.5.4)
+  - AMapLocation-NO-IDFA (2.6.1):
+    - AMapFoundation-NO-IDFA (~> 1.4)
+  - AMapSearch-NO-IDFA (6.1.1):
+    - AMapFoundation-NO-IDFA (~> 1.4)
+  - Masonry (1.1.0)
+  - mob_smssdk (3.2.1):
+    - MOBFoundation
+  - MOBFoundation (3.1.8)
+
+DEPENDENCIES:
+  - AMap2DMap-NO-IDFA
+  - AMapLocation-NO-IDFA
+  - AMapSearch-NO-IDFA
+  - Masonry
+  - mob_smssdk
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AMap2DMap-NO-IDFA
+    - AMapFoundation-NO-IDFA
+    - AMapLocation-NO-IDFA
+    - AMapSearch-NO-IDFA
+    - Masonry
+    - mob_smssdk
+    - MOBFoundation
+
+SPEC CHECKSUMS:
+  AMap2DMap-NO-IDFA: ccecb3e2a044c17e6badb9b91c950e709368be20
+  AMapFoundation-NO-IDFA: 09761b7e59a54fe82057ae78a191069182d6f98f
+  AMapLocation-NO-IDFA: ffd69b8b88f553d0b252d4967bf301ad2afff9c0
+  AMapSearch-NO-IDFA: 848e148a31876217a1094e6be3448e95d1688b6a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  mob_smssdk: edc462704cc07c6d245eee16c4c09ac4f4d53e61
+  MOBFoundation: 7f1e157be332576e4d45809a03bc733292c6ad8d
+
+PODFILE CHECKSUM: cb2d454589b0d8e9998beabbc196a7b80b7d6169
+
+COCOAPODS: 1.5.3
